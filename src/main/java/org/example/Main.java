@@ -8,5 +8,9 @@ public class Main {
         // Llamamos al cambio de Sephiroth
         SephirothUpdate actualizacion = new SephirothUpdate();
         actualizacion.mostrarMensaje();
+
+        // Llamamos al cambio de Gabriel
+        GabrielUpdate actualizacion2 = new GabrielUpdate();
+        actualizacion2.mostrarMensaje();
     }
 }
